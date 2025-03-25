@@ -14,6 +14,8 @@ Use this gif as an example of how the app should work.
 > To view in VSCode, right click on the README.md file and select "Open Preview".
 
 ## Setup
+https://staceyjep.github.io/week-2-code-challenge-flatter-cutie-staceyjep/
+
 
 Run this command to get the backend started:
 
