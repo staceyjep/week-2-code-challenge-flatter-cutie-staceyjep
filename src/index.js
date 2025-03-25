@@ -1,6 +1,6 @@
 
 document.addEventListener("DOMContentLoaded", () => {
-    const baseUrl = "http://localhost:3000/characters";
+    const baseUrl = "https://flatter-cuties-cyan.vercel.app/characters/";
   
     const characterBar = document.getElementById("character-bar");
     const characterName = document.getElementById("name");
